@@ -38,7 +38,6 @@ Several steps below are **paused** or **design-stage** rather than complete, eac
 ### Prerequisites
 Before starting, you'll need:
 - A 3D printer capable of printing PLA (this project uses an Anycubic Kobra 2 Neo)
-- Slicing software compatible with your printer
 - Arduino IDE or PlatformIO, for flashing the firmware
 - Basic soldering equipment, for when wiring work begins
 
