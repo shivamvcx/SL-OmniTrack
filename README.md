@@ -1,6 +1,4 @@
-![Typing Animation](https://waveify.onrender.com/api/typing/terminal?text=npm+install+SL-OmniTrack%0A%E2%9C%93+Package+installed+successfully%21&speed=30&color=%2300ff00&backgroundColor=%23000000&fontSize=32&fontFamily=Fira+Code%2C+monospace&width=400&height=60&cursor=true&cursorColor=%23000000&type=terminal&prompt=%24+&glowEffect=true)
-
-![SL-OmniTrack Banner](Readme%20Resources/Banner.svg)
+![SL-OmniTrack Banner](Readme%20Resources/Banner.png)
 
 ## 1. What is this Project?
 
