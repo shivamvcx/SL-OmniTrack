@@ -1,20 +1,21 @@
 ![SL-OmniTrack Banner](Readme%20Resources/Banner_1.png)
 
-## 1. What is this Project?
+## Overview
 
 Name — SL-OmniTrack
 "SL" stands for my future startup called "Silicon Labs" and "OmniTrack" is the kit name. This is a kit which includes 2 main things:
 
-- **Ground Station** — a 3D-printed enclosure housing a microcontroller, LoRa transceiver, and a USB cable that connects it to a laptop/PC. It receives telemetry from the avionics bay and displays system health on an onboard OLED.
-
 - **Avionics Bay** — a cylindrical enclosure that flies inside the rocket. It houses a microcontroller, IMU, barometric sensor, GPS module, MicroSD module (for onboard flight data logging), and a power package. (Component list changes are tracked in `BOM.md` — treat that as the source of truth over this README.)
 
+- **Ground Station** — a 3D-printed enclosure housing a microcontroller, LoRa transceiver, and a USB cable that connects it to a laptop/PC. It receives telemetry from the avionics bay and displays system health on an onboard OLED.
+
 - Both modules use the same microcontroller (ESP32-S3). As soon as each board powers on, it connects to the other wirelessly over LoRa — the avionics bay transmits telemetry, and the ground station receives and displays it.
+
 - Enclosures are designed to give freedom to flash your own code.
 
 ---
 
-## 2. Declaration of Use of AI
+## Declaration of Use of AI
 
 - Finding and comparing libraries for sensors
 - GitHub Copilot for small errors whose causes are buried deep in library changelogs
@@ -22,7 +23,7 @@ Name — SL-OmniTrack
 
 ---
 
-## 3. Steps to Recreate This Project
+## Steps to Recreate This Project
 
 > **Build status:** This project has not yet been physically built. This submission is at the design and component-sourcing stage.
 
