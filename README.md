@@ -3,11 +3,11 @@
 ## Overview
 
 **SL-OmniTrack** - "SL" stands for "Silicon Labs" and "OmniTrack" is my flagship project under Silicon Labs. It has 2 modules -
-1. **Avionics bay** - It has microcontroller like ESP32-S3 and sensors like IMU, Barometer, GPS, MicroSD module, SX1278 and power system with 1*18650 and MT3608.
+1.**Avionics bay** - It has microcontroller like ESP32-S3 and sensors like IMU, Barometer, GPS, MicroSD module, SX1278 and power system with 1*18650 and MT3608.
  
   **Function** - All sensors log all their data in SD card and send those data in time-wise packets to **Ground Station**.
 
-2. **Ground Station** - It mainly has ESP32-S3, SX1278, USB cable to connect it to laptop/pc.
+2.**Ground Station** - It mainly has ESP32-S3, SX1278, USB cable to connect it to laptop/pc.
 
   **Function** - It receive those data sent from *Avionics Bay* and send all data to a native software (Yet to build) via usb cable.
 
@@ -15,7 +15,7 @@
 
  - My main goal is to give you freedom of using this product however you like. Enclousure design gives freedom to flash your own code, change sensors etc.
 
- ## Planned Bus Layout
+## Planned Bus Layout
 
  **Avionics Bay:**
 
