@@ -21,12 +21,13 @@
 
 | Component | Interface | Power Source |
 |---|---|---|
+| ESP32-S3 | — | 5V rail (via MT3608 boost) |
+| NEO-6M GPS | UART | 5V rail (via MT3608 boost) |
+| MicroSD module | SPI | 5V rail (via MT3608 boost) |
 | MPU9250/MPU6500 (IMU) | I2C | ESP32-S3 onboard 3.3V regulator |
 | BMP280 (barometer) | I2C | ESP32-S3 onboard 3.3V regulator |
 | SX1278 LoRa module | SPI | ESP32-S3 onboard 3.3V regulator |
-| NEO-6M GPS | UART | 5V rail (via MT3608 boost) |
-| MicroSD module | SPI | 5V rail (via MT3608 boost) |
-| ESP32-S3 | — | 5V rail (via MT3608 boost) |
+
 
 **Ground Station:**
 

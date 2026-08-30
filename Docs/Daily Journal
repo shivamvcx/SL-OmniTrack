@@ -30,3 +30,10 @@ Daily Journal - This is a doc file where i keep track of Daily  progress to matc
 
 07/08/26 -> - Finalized BOM.md 
             - Finalized Readm.md
+
+## Waited some time for parts to arrive
+
+31/08/26 -> - Wrote a test code to check health, physical wiring and bus address of sensors and I2C/SPI connection of sensors to MCU
+            - Code showed my 9-axis MPU9250 does have a magnometer (AK8963) so i got worried but then i got to know that my module's AK8963 die is seperate from the SDA/SCL bus thus the code never got any signal from it so it showed that my module is just MPU6500.
+            - I connected EDA and ECL which are pins for AK8963 and the test code now shows that my module is a proper MPU9250 with proper 9-axis of DOF
+> This is first time in my life where i read actual papers and document provided by company with 80ish pages having detailed info about component. IK its not much for someone but is it for me. Glad i found it myself without any AI. Feeling proud😁
