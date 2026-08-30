@@ -15,6 +15,9 @@
 
  - My main goal is to give you freedom of using this product however you like. Enclousure design gives freedom to flash your own code, change sensors etc.
 
+ ## Journal 
+ Checkout my daily journal here - [Journal](Docs\Daily Journal)
+
  ## Planned Bus Layout
 
  **Avionics Bay:**
