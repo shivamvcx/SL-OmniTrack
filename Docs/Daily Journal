@@ -34,3 +34,5 @@
             - Code showed my 9-axis MPU9250 does have a magnometer (AK8963) so i got worried but then i got to know that my module's AK8963 die is seperate from the SDA/SCL bus thus the code never got any signal from it so it showed that my module is just MPU6500.
             - I connected EDA and ECL which are pins for AK8963 and ran the test code and unfortunetly my module is just another MPU6500 labelled as MPU9250 also found that MPU9250 is discountinued resulting in these fake modules.
             - Decided to buy 7-semi's BNO085 , since 7-semi is a relable brand i get actual 9-DOF IMU
+
+`01/09/26` -> -Requested more funds for BNO085 , wont be able to work untill it arrives.
