@@ -8,13 +8,13 @@
 `07/07/26` -> - Tried and FAILED in repairing my ESP32 module
             - Finalize which LoRa transceiver to use for both avoinics bay and ground station module
 
-**Couldn't work on 8th and 9th july due to focus on acedemics**
+> Couldn't work on 8th and 9th july due to focus on acedemics
 
 `10/07/26` -> - Designed Base of my avionics bay
             - Finalized desing of Perf board Holder
             - Posted journal on Macondo on "Optimizing component list"
 
-**Major break due to...... IDK**
+> Major break due to...... IDK
 
 `29/07/26` -> - Didnt did much after first shipping but they requested some changes.
             - Started writing my BOM.
@@ -28,7 +28,7 @@
 `07/08/26` -> - Finalized BOM.md 
             - Finalized Readm.md
 
-**Waited some time for parts to arrive**
+> Waited some time for parts to arrive
 
 `31/08/26` -> - Wrote a test code to check health, physical wiring and bus address of sensors and I2C/SPI connection of sensors to MCU
             - Code showed my 9-axis MPU9250 does have a magnometer (AK8963) so i got worried but then i got to know that my module's AK8963 die is seperate from the SDA/SCL bus thus the code never got any signal from it so it showed that my module is just MPU6500.
@@ -36,3 +36,5 @@
             - Decided to buy 7-semi's BNO085 , since 7-semi is a relable brand i get actual 9-DOF IMU
 
 `01/09/26` -> -Requested more funds for BNO085 , wont be able to work untill it arrives.
+
+> Waiting for $27 topup so i can buy the BNO085 IMU
