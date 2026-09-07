@@ -41,4 +41,4 @@
 
 > Waiting for $27 topup so i can buy the BNO085 IMU
 
->Small update "08/09/26", work have been paused due to funding delay, planning on shipping v1 with fake MPU9250 and optimize my code to compensate for the error due to lack of mango.
+>Small update "08/09/26", work have been paused due to funding delay, planning on shipping v1 with fake MPU9250 and optimize my code to compensate for the error due to lack of proper magnometer.
