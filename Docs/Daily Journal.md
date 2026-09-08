@@ -42,3 +42,7 @@
 > Waiting for $27 topup so i can buy the BNO085 IMU
 
 >Small update "08/09/26", work have been paused due to funding delay, planning on shipping v1 with fake MPU9250 and optimize my code to compensate for the error due to lack of proper magnometer.
+
+`08/09/26` -> - Tried to re-test MPU9250 with arduino uno to confirm if its fake and yup its fake.
+              - Decided to make v1 with MPU6500 (my fake mpu9250)
+              - After my MPU9250 news, turns out my MT3608 boost module is dead -_- , now for v1 which is only a MVP, im gonna use 2*18650 li ion batteries instead of 1 and use a working buck converter to set it to 5v.
