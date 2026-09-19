@@ -1,4 +1,4 @@
-![SL-OmniTrack Banner](Readme%20Resources/Banner.png?v=2)
+![SL-OmniTrack Banner](Readme%20Resources/Banner.png)
 
 ## Overview
 
