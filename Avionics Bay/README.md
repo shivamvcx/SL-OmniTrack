@@ -1,6 +1,6 @@
 # Avionics Bay
 
-![avionics_bay](../Readme%20Resources/Avionics%20Bay.png)
+![avionics_bay](../Readme%20Resources/Banner.png)
 
 ## CAD Files
 
