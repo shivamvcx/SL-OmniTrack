@@ -46,3 +46,5 @@
 `08/09/26` -> - Tried to re-test MPU9250 with arduino uno to confirm if its fake and yup its fake.
               - Decided to make v1 with MPU6500 (my fake mpu9250)
               - After my MPU9250 news, turns out my MT3608 boost module is dead -_- , now for v1 which is only a MVP, im gonna use 2*18650 li ion batteries instead of 1 and use a working buck converter to set it to 5v.
+
+`19/09/26` -> - Added new avionics bay .step file and a image explaning design
